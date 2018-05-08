@@ -1,9 +1,9 @@
 [submodule "mycroft-hello-world"]
 	path = skill-hello-world
 	url = https://github.com/mycroftai/skill-hello-world
-[submodule "mycroft-pairing"]
+[submodule "gigundo-pairing"]
 	path = skill-pairing
 	url = https://github.com/GigundoAI/skill-pairing
-[submodule "mycroft-configuration"]
+[submodule "gigundo-configuration"]
 	path = skill-configuration
 	url = https://github.com/GigundoAI/skill-configuration
