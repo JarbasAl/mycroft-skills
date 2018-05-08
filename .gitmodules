@@ -3,7 +3,7 @@
 	url = https://github.com/mycroftai/skill-hello-world
 [submodule "mycroft-pairing"]
 	path = skill-pairing
-	url = https://github.com/mycroftai/skill-pairing
+	url = https://github.com/GigundoAI/skill-pairing
 [submodule "mycroft-configuration"]
 	path = skill-configuration
-	url = https://github.com/mycroftai/skill-configuration
+	url = https://github.com/GigundoAI/skill-configuration
