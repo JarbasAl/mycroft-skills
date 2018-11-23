@@ -7,3 +7,6 @@
 [submodule "gigundo-configuration"]
 	path = skill-configuration
 	url = https://github.com/GigundoAI/skill-configuration
+[submodule "test"]
+	path = test
+	url = https://github.com/JarbasAl/test-skill
