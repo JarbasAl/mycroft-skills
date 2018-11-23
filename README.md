@@ -2,7 +2,7 @@
 
 # Content
 - [Welcome](#welcome)
-  - [How to Submit a Skill](#how-to-submit-a-skill)
+  - [How to Manually Submit a Skill](#how-to-submit-a-skill)
     - [1) Make a Repo](#1-make-a-repo)
     - [2) Clone Repo](#2-clone-repo)
     - [3) Generate Readme](#3-generate-readme)
