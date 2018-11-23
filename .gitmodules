@@ -1,0 +1,3 @@
+[submodule "system-shutdown-skill"]
+	path = system-shutdown-skill
+	url = https://github.com/JarbasAl/system-shutdown-skill
