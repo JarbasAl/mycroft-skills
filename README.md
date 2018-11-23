@@ -40,7 +40,7 @@ the chatterbox-skills repo.
 git submodule add $remote $name-of-your-skill
 ```
 Where ```$remote``` is the git address for your repo (for example "https://github.com/GigundoAI/skill-configuration") and
-```$name-your-skill``` is the name used to install it via MSM or "Hey Chatterbox, install ...".  The recommended format for skill names is "publisher-descriptive-name", where 'publisher' is a unique name for you or your organization.  For example, "penrod-nautical-speed-translator".
+```$name-your-skill``` is the name used to install it via CSM or "Hey Chatterbox, install ...".  The recommended format for skill names is "publisher-descriptive-name", where 'publisher' is a unique name for you or your organization.  For example, "penrod-nautical-speed-translator".
 
 When picking a name keep in mind that the installer will match by whole words between the dashes.  So if a user says
 "install speed translator" it will look for all skills in the repo with the words 'speed' AND 'translator'.  That
