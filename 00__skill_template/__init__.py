@@ -50,7 +50,7 @@ class TemplateSkill(MycroftSkill):
             self.count -= 1
         self.speak_dialog("count.is.now", data={"count": self.count})
 
-    # The "stop" method defines what Mycroft does when told to stop during
+    # The "stop" method defines what Chatterbox does when told to stop during
     # the skill's execution. In this case, since the skill's functionality
     # is extremely simple, there is no need to override it.  If you DO
     # need to implement stop, you should return True to indicate you handled

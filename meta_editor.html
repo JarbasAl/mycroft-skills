@@ -157,7 +157,7 @@ function adjust_textarea(h) {
 function generate()
 {
     // Convert the filled-out form to a markdown description (README.md) for
-    // the mycroft-skill on Github
+    // the chatterbox-skill on Github
 
     var elem = document.getElementById("output");
     var elName = document.getElementById("name");
@@ -270,7 +270,7 @@ function addNextAuthor(input)
 
 <body>
 
-<h1>Mycroft Skill Description Tool</h1>
+<h1>Chatterbox Skill Description Tool</h1>
 <div class="instructions">
 <h2>Usage Instructions:</h2>
 <ol>
@@ -301,9 +301,9 @@ format.  In the future it will be machine-parsed to fill the store, perform sear
     <span>Free form, multi-paragraph description of the skill.  You can use <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Github markdown</a>.</span>
 </li>
 <li>
-    <label for="ex_1">Examples:  Hey Mycroft...</label>
+    <label for="ex_1">Examples:  Hey Chatterbox...</label>
     <input class="ex" type="text" name="ex_1" id="ex_1" maxlength="100" placeholder="example 1" onkeyup="addNextExample(this)"></input>
-    <span>Example phrases handled after "Hey Mycroft", Ex: "play latest podcast", "make this a favorite"</span>
+    <span>Example phrases handled after "Hey Chatterbox", Ex: "play latest podcast", "make this a favorite"</span>
 </li>
 
 <li>
